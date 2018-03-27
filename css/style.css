@@ -1,0 +1,184 @@
+body, html {
+	min-height:100%;
+}
+body {
+	background-image: url("../images/Homepage/zombie-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #000305;
+	font-size: 87.5%;
+	font-family: Arial, 'Lucida Sans Uicode';
+	line-height: 1.5;
+	text-align: left;
+}
+#banner{
+	width: 777px;
+	height: 300px;
+}
+a{
+	text-decoration: none;
+}
+a:link, a:visited {
+	color: #DFEBED;
+}
+a:hover, a:active {
+	background-color: #4A4A4A;
+	color: #FFF;
+}
+.body{
+	margin: 0 auto;
+	width: 70%;
+	clear both;
+}
+.mainheader img {
+	width: 100%;
+	height: auto;
+	margin: 24 0;
+}
+.mainheader nav {
+	background-color: #666;
+	height: 40px;
+	border-radius: 5px;
+}
+.mainheader nav ul {
+	list-style: none;
+	margin: 0 auto;
+}
+.mainheader nav ul li {
+	float: left;
+	display: inline;
+}
+.mainheader nav a:link, .mainheader nav a:visited {
+	color: #FFF;
+	display: inline-block;
+	padding: 10px 25px;
+	/*come back here to assign height*/
+}
+.mainheader nav a:hover, .mainheader nav a:active, .mainheader nav .active a:link,
+.mainheader nav .active a:visited{
+	background-color: #4A4A4A;
+	text-shadow: none;
+}
+.mainheader nav ul li a{
+	/*may not use this*/
+
+}
+.mainContent {
+	line-height: 25px;
+
+}
+.content {
+	background-color: #124A52;
+	width: 90%;
+	float: left;
+	border-radius: 5px;
+	padding: 3% 5%;
+	margin-top: 2%;
+
+}
+.topcontent img {
+	display: block;
+	padding: 2%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.Character-image {
+	display: block;
+	padding: 2%;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.Map-image {
+	display: block;
+	padding: 2%;
+	margin: 0 50px;
+	width: 100%;
+}
+
+.Perk-image {
+	width: 25%;
+	padding: 2%;
+	float: right;
+}
+.Wonder-weapons-image {
+	width: 25%;
+	padding: 2%;
+	float: left;
+}
+
+.post-info {
+	font-style: italic;
+	color: #999;
+	font-size:85%;
+}
+.mainFooter {
+	width: 100%;
+	float: left;
+	border-radius: 5px;
+	background-color: #072D32;
+	margin: 2% 0;
+}
+.mainFooter p {
+	width: 92%;
+	margin: 2% auto;
+	color: #FFF;
+}
+
+@media only screen and (min-width: 150px) and (max-width: 950px)
+{
+	.body {
+		width: 90%;
+		font-size: 90%;
+	}
+
+	.mainheader img {
+		width: 100%;
+
+	}
+	.topcontent img {
+		width: 100%;
+
+
+	}
+	.Character-image {
+		width: 90%;
+	}
+
+	.Map-image {
+		width: 85%;
+	}
+
+	.mainheader nav {
+		height: 250px;
+	}
+
+	.mainheader nav ul {
+		padding-left: 0;
+	}
+
+	.mainheader nav ul li {
+		width: 100%;
+		text-align: center;
+	}
+
+	.mainheader nav a:link, .mainheader nav a:visited {
+		padding: 10px 25px;
+		display: block;
+	}
+
+	.post-info {
+		display: none;
+	}
+
+	.content {
+		background-color: #124A52;
+		width: 90%;
+		float: left;
+		border-radius: 5px;
+		padding: 3% 5%;
+		margin-top: 2%;
+
+	}
+}
