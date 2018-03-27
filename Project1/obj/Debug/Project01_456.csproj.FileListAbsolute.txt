@@ -1,0 +1,9 @@
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\bin\Project01_456.dll.config
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\bin\Project01_456.dll
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\bin\Project01_456.pdb
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\obj\Debug\Project01_456.csprojResolveAssemblyReference.cache
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\obj\Debug\Project01_456.csproj.CoreCompileInputs.cache
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\obj\Debug\Project01_456.dll
+\\myhome.itap.purdue.edu\myhome\bmneyhar\ecn.data\Desktop\Project01_456\Project01_456\obj\Debug\Project01_456.pdb
